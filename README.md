@@ -20,8 +20,8 @@ Create the directory "~/airflow/twitter_dag"
 - mkdir ~/airflow/twitter_dag
 
 Create the following files in the "~/airflow/twitter_dag" direcrtory on Ubuntu environment
-- twitter_etl.py
-- twitter_dag.py
+- twitter_etl.py    | <a href="https://github.com/DonaldMod/Tweets_Airflow_Flow/blob/main/twitter_etl.py" target="_blank">Twitter Dag File</a>
+- twitter_dag.py    | <a href="https://github.com/DonaldMod/Tweets_Airflow_Flow/blob/main/twitter_dag.py" target="_blank">Twitter Dag File</a>
 
 Update those files accordingly with the files provided in this repo
 
